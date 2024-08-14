@@ -4,7 +4,7 @@ import io
 import base64
 
 # Caminho para a imagem de fundo
-background_image_path = "C:/Users/mathe/OneDrive/Desktop/beatriz_cu/WhatsApp Image 2024-08-13 at 23.33.22.jpeg"
+background_image_path = "WhatsApp Image 2024-08-13 at 23.33.22.jpeg"
 
 # Custom CSS styling para adicionar a imagem de fundo e estilizar o botão de download
 st.markdown(f"""
