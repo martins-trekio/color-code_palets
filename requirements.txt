@@ -1,0 +1,4 @@
+streamlit==1.37.1
+requests==2.32.3
+nest_asyncio>=1.6.0  # Atualizado para ser compatível com o langflow
+git+https://github.com/langflow-ai/langflow.git
